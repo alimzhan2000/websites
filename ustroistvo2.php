@@ -6,8 +6,8 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title>QiVita</title>
-	<meta name="description" content="Free Responsive Html5 Css3 Templates | Zerotheme.com">
-	<meta name="author" content="www.zerotheme.com">
+	<meta name="QiVita" content="company of a new medicine">
+	<meta name="Alimzhan Kenesbekov" content="www.qivita.mcdir.ru/index1.php">
 	
     <!-- Mobile Specific Metas
 	================================================== -->
@@ -47,22 +47,26 @@
 				</div>
 			</div>
 			<div class="header-logo">
-				<a href="index.html"><img src="images/qiv1.png" style="width:300px; height: 200px"></a>
+				<a href="index1.php"><img src="images/qiv1.png" style="width:300px; height: 200px"></a>
 			</div>
 			<div id='cssmenu' >
 				<ul>
-				   <li class="active"><a href='index1.php'><span>Главная</span></a></li>
-				   <li class=' has-sub'><a href='#'><span>Цены</span></a>
+				   <li class="active"><a href='index1.php'><span>Main</span></a></li>
+				   <li class=' has-sub'><a href='#'><span>Prices</span></a>
 					  <ul>
-						 <li class='has-sub'><a href='kupitustroistvo.php'><span>Устройства</span></a>
+						 <li class='has-sub'><a href='kupitustroistvo.php'><span>Devices</span></a>
 						 </li>
-						 <li class='has-sub'><a href='skoraya.php'><span>Скорая</span></a>
+						 <li class='has-sub'><a href='skoraya.php'><span>Ambulance</span></a>
 						 </li>
 					  </ul>
 				   </li>
-				   <li><a href='kompany.php'><span>О компании</span></a></li>
-				   <li><a href='personal.php'><span>наш персонал</span></a></li>
-				   <li class='last'><a href='contact.php'><span>Контакты</span></a></li>
+				   <li><a href='kompany.php'><span>About company</span></a></li>
+				   <li><a href='personal.php'><span>Personal</span></a></li>
+				   <li class='last'><a href='contact.php'><span>Our location</span></a></li>
+<!--
+                    <li><a href='reg.php'><span>регистрация</span></a></li>
+                    <li><a href='aft.php'><span>авторизация</span></a></li>
+-->
 				</ul>
 			</div>
 		</header>
@@ -72,41 +76,41 @@
 			<div class="wrap-container zerogrid">
 				<div class="crumbs">
 					<ul>
-						<li><a href="index1.php">Главная</a></li>
-						<li><a href="skoraya.php">Заказать скорую</a></li>
+						<li><a href="index1.php">Main</a></li>
+						<li><a href="skoraya.php">Order an ambulance</a></li>
 					</ul>
 				</div>
 				<div id="main-content" class="col-2-3">
 					<div class="wrap-content">
 						<article>
 							<div class="art-header">
-								><h3>Покупка только перчатки </h3>
+								><h3>Purchase only a glove</h3>
 							</div>
 							<div class="art-content">
 								<img src="images/photoperchatki.JPG" style="width: 100%; height: 600px;"/>
-								<p style="font-size: 30px;margin-top: 20px; margin-bottom: 20px;color: black; line-height: 2">Технические характеристики:<br><span5 style="font-size:20px; line-height: 2;">
-                                Время определения диагноза: 5 минут<br>
-                                Точность определения диагноза: 42%-84%<br>
-                                    Работающая схема: УД1408<br></span5>
+								<p style="font-size: 30px;margin-top: 20px; margin-bottom: 20px;color: black; line-height: 2">Specifications:<br><span5 style="font-size:20px; line-height: 2;">
+                                Time of diagnosis: 5 minutes<br>
+                                The accuracy of the diagnosis: 42% -84%<br>
+                                Operating scheme: UD1408<br></span5>
                                 </p>
 							</div>
-                            <p style="font-size: 50px;margin-top: 20px; margin-bottom: 20px;">Цена: 69 000 тенге</p><br>
+                            <p style="font-size: 50px;margin-top: 20px; margin-bottom: 20px;">Price: 69 000 tenge</p><br>
                             </article>
                             <div id="contact_form">
 										<form name="form1" id="ff" method="post" action="ustr2.php">
 											<label class="row">
 												<div class="col-1-2">
 													<div class="wrap-col">
-														<input type="text" name="name" id="name" placeholder="Введите имя компании" required="required" />
+														<input type="text" name="name" id="name" placeholder="Enter your company name" required="required" />
 													</div>
 												</div>
 												<div class="col-1-2">
 													<div class="wrap-col">
-														<input type="telephone" name="tel" id="name" placeholder="Введите номер телефона" required="required" />
+														<input type="telephone" name="tel" id="name" placeholder="Enter phone number" required="required" />
 													</div>
 												</div>
 											</label>
-											<center><input class="sendButton" type="submit" name="submit" value="ОТПРАВИТЬ ЗАЯВКУ"></center>
+											<center><input class="sendButton" type="submit" name="submit" value="SEND APPLICATION"></center>
 										</form>
 									</div>
 					</div>
@@ -116,7 +120,7 @@
 						<!---- Start Widget ---->
 						<div class="widget wid-about">
 							<div class="wid-header">
-								<h5>Наши достижения</h5>
+								<h5>Our achievements</h5>
 							</div>
 							<div class="wid-content">
 								<img src="images/lic.jpg"/>
@@ -134,19 +138,19 @@
 				<div class="row">
 					<div class="col-1-4 col-footer-1">
 						<div class="wrap-col">
-							<h3 class="widget-title">О нас</h3>
-							<p>Хоть компании и год со дня основания, мы преуспели не только по успешно поставленным диагнозом, но и качественной и быстрой реакции на вызов клиентов. Надеюсь, Вы будете удовлетворены использованием нашей услуги!</p>
+							<h3 class="widget-title">About us</h3>
+							<p>Although the company and the year from the day of its foundation, we have succeeded not only in successfully diagnosed, but also in qualitative and rapid response to the call of customers. I hope you will be satisfied with the use of our service!</p>
 							<p></p>
 						</div>
 					</div>
 					<div class="col-1-4 col-footer-2">
 						<div class="wrap-col">
-							<h3 class="widget-title">Смотрите также</h3>
+							<h3 class="widget-title">See more</h3>
 							<ul>
-								<li><a href="kupitustroistvo.php" style="font-size: 20px;">Купить устройство</a></li>
-								<li><a href="skoraya.php" style="font-size: 20px;">Заказать скорую</a></li>
-								<li><a href="kompany.php" style="font-size: 20px;">О компании</a></li>
-								<li><a href="index1.php" style="font-size: 20px;">Главная</a></li>
+								<li><a href="kupitustroistvo.php" style="font-size: 20px;">Buy device</a></li>
+								<li><a href="skoraya.php" style="font-size: 20px;">Order an ambulance</a></li>
+								<li><a href="kompany.php" style="font-size: 20px;">About company</a></li>
+								<li><a href="index1.php" style="font-size: 20px;">Main</a></li>
 							</ul>
 						</div>
 					</div>
@@ -156,12 +160,12 @@
 					</div>
 					<div class="col-1-4 col-footer-4">
 						<div class="wrap-col">
-							<h3 class="widget-title">Подписка</h3>
-							<p>Не пропускайте новости от нашей компании</p>
+							<h3 class="widget-title">Subscription</h3>
+							<p>Do not miss the news from our company</p>
 							<p>Email address:</p>
 							<form action="podpisat.php" method="post">
 								<input type="name" name="mail" value="" size="40"style="width:200px; height: 30px; padding:10px; background-color: lightgrey" placeholder="Your Email" />
-								<input type="submit" name="submit" value="ПОДПИСАТЬСЯ" class="button button-subcribe" />
+								<input type="submit" name="submit" value="SUBSCRIBE" class="button button-subcribe" />
 							</form>
 						</div>
 					</div>

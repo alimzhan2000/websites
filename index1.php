@@ -5,8 +5,8 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title>QiVita</title>
-	<meta name="description" content="Free Responsive Html5 Css3 Templates | Zerotheme.com">
-	<meta name="author" content="www.zerotheme.com">
+	<meta name="QiVita" content="company of a new medicine">
+	<meta name="Alimzhan Kenesbekov" content="www.qivita.mcdir.ru/index1.php">
 	
     <!-- Mobile Specific Metas
 	================================================== -->
@@ -72,18 +72,18 @@
 			</div>
 			<div id='cssmenu' >
 				<ul>
-				   <li class="active"><a href='index1.php'><span>Главная</span></a></li>
-				   <li class=' has-sub'><a href='#'><span>Цены</span></a>
+				   <li class="active"><a href='index1.php'><span>Main</span></a></li>
+				   <li class=' has-sub'><a href='#'><span>Prices</span></a>
 					  <ul>
-						 <li class='has-sub'><a href='kupitustroistvo.php'><span>Устройства</span></a>
+						 <li class='has-sub'><a href='kupitustroistvo.php'><span>Devices</span></a>
 						 </li>
-						 <li class='has-sub'><a href='skoraya.php'><span>Скорая</span></a>
+						 <li class='has-sub'><a href='skoraya.php'><span>Ambulance</span></a>
 						 </li>
 					  </ul>
 				   </li>
-				   <li><a href='kompany.php'><span>О компании</span></a></li>
-				   <li><a href='personal.php'><span>наш персонал</span></a></li>
-				   <li class='last'><a href='contact.php'><span>Контакты</span></a></li>
+				   <li><a href='kompany.php'><span>About company</span></a></li>
+				   <li><a href='personal.php'><span>Personal</span></a></li>
+				   <li class='last'><a href='contact.php'><span>Our location</span></a></li>
 <!--
                     <li><a href='reg.php'><span>регистрация</span></a></li>
                     <li><a href='aft.php'><span>авторизация</span></a></li>
@@ -93,27 +93,26 @@
 			<div class="slider">
 				<!-- Slideshow -->
 				<div class="callbacks_container">
-                    
-                    <ul class="rslides" id="slider">
+					<ul class="rslides" id="slider">
 						<li>
 							<img src="images/medd.jpg"style="width:100%;height:505px" alt="">
 							<div class="caption" style="background-color: #e9ce16; color: black">
-                                <a href="novost1.php"><h1 style="color: black">Названа главная опасность парацетамола</h1></a>
-								<span style="color: black">Употребление лекарств на основе парацетамола может привести к нарушению репродуктивной функции и проблемам с развитием плода. Соответствующие данные опубликованы в журнале EBioMedicine.</span>
+                                <a href="novost1.php"><h1 style="color: black">The main danger of paracetamol</h1></a>
+								<span style="color: black">The use of drugs based on paracetamol can lead to a violation of reproductive function and problems with fetal development. Relevant data are published in the journal EBioMedicine.</span>
 							</div>
 						</li>
 						<li>
 							<img src="images/zuby1.jpg"style="width:100%;height:505px" alt="">
 							<div class="caption" style="background-color: #e9ce16; color: black">
-                                <a href="novost2.php"><h1 style="color: black">Cтоматолог рассказал, какие продукты есть для идеальных зубов</h1></a>
-								<span>Практикующий стоматолог Льюис Эрлих из Центра стоматологических исследований Сиднея (Австралия) рассказал, какие продукты употребляет в течение дня, чтобы сохранять свои зубы в идеальном состоянии. Об этом пишет "Ридус".</span>
+                                <a href="novost2.php"><h1 style="color: black">The stomatologist told what products there are for perfect teeth</h1></a>
+								<span>Practicing dentist Lewis Ehrlich from the Sydney Center for Dental Research (Australia) told us what foods he consumed during the day to keep his teeth in perfect condition. This is written by "Ridus"</span>
 							</div>
 						</li>
 						<li>
 							<img src="images/alko.jpg"style="width:100%;height:505px" alt="">
 							<div class="caption" style="background-color: #e9ce16; color: black">
-                                <a href="novost3.php"><h1 style="color: black">Ученые нашли новый способ борьбы с алкогольной зависимостью</h1></a>
-								<span>Ученые из австралийского Университета Квинсленда обнаружили, что некоторые антидепрессанты могут обратить вредное воздействие алкоголя на клетки головного мозга. Результаты исследования опубликовали на сайте Medicalxpress.</span>
+                                <a href="novost3.php"><h1 style="color: black">Scientists have found a new way to combat alcohol dependence</h1></a>
+								<span>Scientists from the Australian University of Queensland have discovered that some antidepressants can reverse the harmful effects of alcohol on brain cells. The results of the study were published on the website of Medicalxpress.</span>
 							</div>
 						</li>
 					</ul>
@@ -132,9 +131,9 @@
 								<div class="wrap-col">
 									<div class="box-item">
 										<img src="images/parac.jpg">
-										<h2>Названа главная опасность парацетамола</h2>
-										<p>Употребление лекарств на основе парацетамола может привести к нарушению репродуктивной функции и проблемам с развитием плода. Соответствующие данные опубликованы в журнале EBioMedicine.</p>
-										<a href="novost1.php">Читать далее</a>
+										<h2>The main danger of paracetamol</h2>
+										<p>The use of drugs based on paracetamol can lead to a violation of reproductive function and problems with fetal development. Relevant data are published in the journal EBioMedicine.</p>
+										<a href="novost1.php">Read more</a>
 									</div>
 								</div>
 							</div>
@@ -142,9 +141,9 @@
 								<div class="wrap-col">
 									<div class="box-item">
 										<img src="images/parac1.jpeg">
-										<h2>Cтоматолог рассказал, какие продукты есть для идеальных зубов</h2>
-										<p>Практикующий стоматолог Льюис Эрлих из Центра стоматологических исследований Сиднея (Австралия) рассказал, какие продукты употребляет в течение дня, чтобы сохранять свои зубы в идеальном состоянии. Об этом пишет "Ридус".</p>
-										<a href="novost2.php">Читать далее</a>
+										<h2>The stomatologist told what products there are for perfect teeth</h2>
+										<p>Practicing dentist Lewis Ehrlich from the Sydney Center for Dental Research (Australia) told us what foods he consumed during the day to keep his teeth in perfect condition. This is written by "Ridus"</p>
+										<a href="novost2.php">Read more</a>
 									</div>
 								</div>
 							</div>
@@ -152,9 +151,9 @@
 								<div class="wrap-col">
 									<div class="box-item">
 										<img src="images/parac2.jpg">
-										<h2>Ученые нашли новый способ борьбы с алкогольной зависимостью</h2>
-										<p>Ученые из австралийского Университета Квинсленда обнаружили, что некоторые антидепрессанты могут обратить вредное воздействие алкоголя на клетки головного мозга. Результаты исследования опубликовали на сайте Medicalxpress.</p>
-										<a href="novost3.php">Читать далее</a>
+										<h2>Scientists have found a new way to combat alcohol dependence</h2>
+										<p>Scientists from the Australian University of Queensland have discovered that some antidepressants can reverse the harmful effects of alcohol on brain cells. The results of the study were published on the website of Medicalxpress.</p>
+										<a href="novost3.php">Read more</a>
 									</div>
 								</div>
 							</div>
@@ -162,22 +161,22 @@
 					</div>
 				</section>
 				<!-----------------content-box-2-------------------->
-				<section class="content-box boxstyle-1 box-2">
-					<div class="zerogrid">
-						<div class="row wrap-box"><!--Start Box-->
-							<div class="box-item">
-								<blockquote><p>Если человек сам следит за своим здоровьем, то трудно найти врача, который знал бы лучше полезное для его здоровья, чем он сам.</p></blockquote>
+				<section class="content-box boxstyle-1 box-2"style="width: 100%">
+					<div class="zerogrid"style="width: 100%">
+						<div class="row wrap-box" style="width: 100%"><!--Start Box-->
+							<div class="box-item" style="">
+								<blockquote><p>If a person watches for his own health, it is difficult to find a doctor who would know better useful for his health than he does</p></blockquote>
 							</div>
 						</div>
 					</div>
 				</section>
 				<!-----------------content-box-3-------------------->
 				<section class="content-box box-3">
-					<div class="zerogrid">
+					<div class="ze rogrid">
 						<div class="row wrap-box"><!--Start Box-->
 							<div class="header">
 								<div class="wrapper">
-									<h2>Наши преимущества</h2>
+									<h2>Our advantages</h2>
 									<hr class="line"> 
 								</div>
 							</div>
@@ -189,8 +188,8 @@
 												<img src="images/feature-icon-1.png" />
 											</div>
 											<div class="box-item-content">
-												<h3>НАЛИЧИЕ УЧЕБНЫХ МАТЕРИАЛОВ</h3>
-												<p>Устройство имеет учебные материалы и каждый человек способен понять как работает технология и установить у себя</p>
+												<h3>AVAILABILITY OF TRAINING MATERIALS</h3>
+												<p>The device has teaching materials and everyone is able to understand how technology works and to install</p>
 											</div>
 										</div>
 									</div>
@@ -202,8 +201,8 @@
 												<img src="images/feature-icon-2.png" />
 											</div>
 											<div class="box-item-content">
-												<h3>ИСПОЛЬЗОВАНИЕ НОВЕЙШИХ ТЕХНОЛОГИЙ</h3>
-												<p>Мы используем только самые новые и передовые технологии в медицине, которые открылись в ближайшее 5-летие</p>
+												<h3>USE OF THE LATEST TECHNOLOGIES</h3>
+												<p>We use only the newest and most advanced technologies in medicine, which opened in the nearest 5 years</p>
 											</div>
 										</div>
 									</div>
@@ -215,8 +214,8 @@
 												<img src="images/feature-icon-3.png" />
 											</div>
 											<div class="box-item-content">
-												<h3>СЕРТИФИЦИРОВАННЫЕ ВРАЧИ</h3>
-												<p>Все врачи имеют докторские степени и имели опыт работы в передовых поликлиниках не только в Казахстане, но и в США и Кореи</p>
+												<h3>CERTIFIED DOCTORS</h3>
+												<p>All doctors have doctoral degrees and had work experience in advanced outpatient clinics not only in Kazakhstan, but also in the USA and Korea</p>
 											</div>
 										</div>
 									</div>
@@ -228,8 +227,8 @@
 												<img src="images/feature-icon-4.png" />
 											</div>
 											<div class="box-item-content">
-												<h3>НАДЕЖНОСТЬ И БЫСТРОТА</h3>
-												<p>Устройство имеет все лицензии и сертификации </p>
+												<h3>RELIABILITY AND QUICKLY</h3>
+												<p>The device has all licenses and certifications</p>
 											</div>
 										</div>
 									</div>
@@ -244,9 +243,9 @@
 						<div class="row wrap-box"><!--Start Box-->
 							<div class="header">
 								<div class="wrapper">
-								<h2>Покупка устройств</h2>
+								<h2>Buying devices</h2>
 								<hr class="line">
-									<div class="intro">Ознакомьтесь с нашим продуктом</div>
+									<div class="intro">View our product</div>
 								</div>
 							</div>
 						</div>
@@ -262,10 +261,10 @@
 									<div class="portfolio-box-caption">
 										<div class="portfolio-box-caption-content">
 											<div class="project-name">
-												<a href="ustroistvo1.php" style="background: none; margin-top:-80px;font-size: 18px; margin-left: 253px;margin-bottom: 95px;transform: rotate(-0.6deg)">Купить базовый пакет<br> (перчатка + браслет)</a>
+												<a href="ustroistvo1.php" style="background: lightyellow; margin-top:-110px;font-size: 18px; margin-left: 253px;transform: rotate(-0.6deg)">Buy a basic package<br> (glove + bracelet)</a>
 											</div>
 											<div class="project-des">
-												<p style="background: lightyellow; margin-left:330px; margin-top: 100px">Цена: 99 000 тенге</p>
+												<p style="background: lightyellow; margin-left:250px; margin-top: 100px">Price: 99 000 tenge</p>
 											</div>
 										</div>
 									</div>
@@ -277,10 +276,10 @@
 									<div class="portfolio-box-caption">
 										<div class="portfolio-box-caption-content">
 											<div class="project-name">
-												<a href="ustroistvo2.php" style="background: none; margin-left:320px;margin-top: 68px;transform: rotate(50.5deg)">Купить только перчатку</a>
+												<a href="ustroistvo2.php" style="background:lightyellow; margin-left:352px;margin-top: 28.5px;transform: rotate(50deg)">Buy only a glove</a>
 											</div>
 											<div class="project-des">
-												<p style="background:lightyellow; margin-left:45px;margin-top: 115px; transform: rotate(53deg)">Цена: 69 000 тенге</p>
+												<p style="background:none; margin-left:45px;margin-top: 115px; transform: rotate(53deg)">Price: 69 000 tenge</p>
 											</div>
 										</div>
 									</div>
@@ -298,19 +297,19 @@
 				<div class="row">
 					<div class="col-1-4 col-footer-1">
 						<div class="wrap-col">
-							<h3 class="widget-title">О нас</h3>
-							<p>Хоть компании и год со дня основания, мы преуспели не только по успешно поставленным диагнозом, но и качественной и быстрой реакции на вызов клиентов. Надеюсь, Вы будете удовлетворены использованием нашей услуги!</p>
+							<h3 class="widget-title">About us</h3>
+							<p>Although the company and the year from the day of its foundation, we have succeeded not only in successfully diagnosed, but also in qualitative and rapid response to the call of customers. I hope you will be satisfied with the use of our service!</p>
 							<p></p>
 						</div>
 					</div>
 					<div class="col-1-4 col-footer-2">
 						<div class="wrap-col">
-							<h3 class="widget-title">Смотрите также</h3>
+							<h3 class="widget-title">See more</h3>
 							<ul>
-								<li><a href="kupitustroistvo.php" style="font-size: 20px;">Купить устройство</a></li>
-								<li><a href="skoraya.php" style="font-size: 20px;">Заказать скорую</a></li>
-								<li><a href="archive.php" style="font-size: 20px;">О компании</a></li>
-								<li><a href="index1.php" style="font-size: 20px;">Главная</a></li>
+								<li><a href="kupitustroistvo.php" style="font-size: 20px;">Buy device</a></li>
+								<li><a href="skoraya.php" style="font-size: 20px;">Order an ambulance</a></li>
+								<li><a href="kompany.php" style="font-size: 20px;">About company</a></li>
+								<li><a href="index1.php" style="font-size: 20px;">Main</a></li>
 							</ul>
 						</div>
 					</div>
@@ -320,12 +319,12 @@
 					</div>
 					<div class="col-1-4 col-footer-4">
 						<div class="wrap-col">
-							<h3 class="widget-title">Подписка</h3>
-							<p>Не пропускайте новости от нашей компании</p>
+							<h3 class="widget-title">Subscription</h3>
+							<p>Do not miss the news from our company</p>
 							<p>Email address:</p>
 							<form action="podpisat.php" method="post">
 								<input type="name" name="mail" value="" size="40"style="width:200px; height: 30px; padding:10px; background-color: lightgrey" placeholder="Your Email" />
-								<input type="submit" name="submit" value="ПОДПИСАТЬСЯ" class="button button-subcribe" />
+								<input type="submit" name="submit" value="SUBSCRIBE" class="button button-subcribe" />
 							</form>
 						</div>
 					</div>

@@ -1,7 +1,7 @@
 <?php
    // include ("bd.php");
     session_start();
-    $conn = mysqli_connect("a242031.mysql.mchost.ru", "a242031_1", "alimzhan2538", "a242031_1");
+    $conn = mysqli_connect("a230191.mysql.mchost.ru", "a230191_1", "alimzhan2538", "a230191_1");
 // Check connection
 		if (!$conn) {
 			die("Connection failed: " . mysqli_connect_error());
